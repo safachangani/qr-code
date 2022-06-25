@@ -1,0 +1,45 @@
+.center-box{
+    width: 254px;
+    height: 400px;
+    background-color:  hsl(0, 0%, 100%);
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    margin: auto;
+    border-radius:15px ;
+    text-align: center;
+    z-index: 10;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+} 
+body
+{
+    background-color: hsl(212, 45%, 89%);
+}
+img{
+    width: 228px;
+    height: 220px;
+    border-radius: 11px;
+    padding-bottom: 0px;
+    margin: 12px;
+    margin-bottom: auto;
+}
+.font{
+    font-family:outfit,sans-serif; 
+    color:  hsl(218, 44%, 22%);
+    margin: 15px;
+}
+h3{
+    font-size: 1.1rem;
+    margin-bottom: 0;
+}
+.para{
+    color: hsl(220, 15%, 55%);
+    font-size: 13px
+}
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@500&display=swap');
+
+
+
+
